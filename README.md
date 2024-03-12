@@ -11,9 +11,5 @@
 <br/>
 
 ## Credits:
-
-> ####### Name: Mikrotik Auto Interface Swap or Disable or Shutdown Script<br/>
-> ####### Description: Enable or disable the selected interfaces on a schedule.<br/>
-> ####### Author: Samy © 2021<br/>
+> ####### Author: Samy © 2024<br/>
 > ####### License: GPL-3.0 License<br/>
-> ####### Verified: RouterBOARD CCR 1036<br/>
