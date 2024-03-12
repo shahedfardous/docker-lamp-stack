@@ -1,0 +1,4 @@
+# Ignore all files and folders inside the 'mysql_data' directory
+mysql_data/*
+# Except for the folder named 'important_folder'
+!mysql_data/dash/
